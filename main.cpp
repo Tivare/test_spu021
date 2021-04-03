@@ -9,5 +9,6 @@ int main()
 {
 
 	cout<<"Hello World!"<<endl;
+	cout<<"New line"<<endl;
 	cout<<"Dif = "<<dif(23,12)<<endl;
 }
